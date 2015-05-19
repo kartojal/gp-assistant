@@ -20,6 +20,7 @@ A CLI Bash script by Kartojal, for a bit more friendly [GpuPlotGenerator](https:
 
 
 # TO-DO
+  - Remember last start nonce. (Soon)
   - CLI menu to change GpuPlotter mode (direct or buffer)
   - Hints for the device setup
   - GUI menu with Zenity
