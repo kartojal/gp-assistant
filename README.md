@@ -1,2 +1,2 @@
 # gp-assister
-A bash script for a bit more friendly GpuPlotGenerator by Cryo, that ask you the needed parameters to plotting Burst.
+A bash script by Kartojal, for a bit more friendly GpuPlotGenerator by Cryo, that ask you the needed parameters for plotting Burst.
