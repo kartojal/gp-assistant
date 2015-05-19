@@ -14,9 +14,9 @@ A CLI Bash script by Kartojal, for a bit more friendly [GpuPlotGenerator](https:
   3. Copy the "gp-assistant.sh" script file to the GpuPlotGenerator directory.
   4. Open the console and navigate to the GpuPlotGenerator directory.
   5. Give it execution permissions via console:
-        chmod +x 'gp-assistant.sh'
+      - chmod +x 'gp-assistant.sh'
   6. Run it via console:
-        ./gp-assistant.sh
+      - ./gp-assistant.sh
 
 
 # TO-DO
